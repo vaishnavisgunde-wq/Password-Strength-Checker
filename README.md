@@ -23,7 +23,7 @@ If the password is weak, it clearly explains which requirements were not met.
 ### 💻 Example Output
 
 ```
-PS C:\Users\santo\Desktop\Coding> python new.py
+PS C:\Users\Anonymous\Desktop\Coding> python new.py
 Enter password to validate: ********
 
 Password is too weak!
